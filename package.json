@@ -22,7 +22,7 @@
     "gh-pages": "^6.3.0",
     "sass": "^1.89.0"
   },
-  "homepage": "https://matisosagit.github.io/appservicefront",
+  "homepage": "https://matisosagit.github.io/appservicefront/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
