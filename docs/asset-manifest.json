@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/appservicefront/static/css/main.9b23ccdb.css",
-    "main.js": "/appservicefront/static/js/main.6212abc5.js",
+    "main.js": "/appservicefront/static/js/main.115f8053.js",
     "static/js/239.966eabc9.chunk.js": "/appservicefront/static/js/239.966eabc9.chunk.js",
     "static/js/213.3d925fc9.chunk.js": "/appservicefront/static/js/213.3d925fc9.chunk.js",
     "static/js/732.1259c77c.chunk.js": "/appservicefront/static/js/732.1259c77c.chunk.js",
@@ -11,7 +11,7 @@
     "static/media/service4.svg": "/appservicefront/static/media/service4.ad2c3b900b50be0c9d3f3f5062e1ab4e.svg",
     "index.html": "/appservicefront/index.html",
     "main.9b23ccdb.css.map": "/appservicefront/static/css/main.9b23ccdb.css.map",
-    "main.6212abc5.js.map": "/appservicefront/static/js/main.6212abc5.js.map",
+    "main.115f8053.js.map": "/appservicefront/static/js/main.115f8053.js.map",
     "239.966eabc9.chunk.js.map": "/appservicefront/static/js/239.966eabc9.chunk.js.map",
     "213.3d925fc9.chunk.js.map": "/appservicefront/static/js/213.3d925fc9.chunk.js.map",
     "732.1259c77c.chunk.js.map": "/appservicefront/static/js/732.1259c77c.chunk.js.map",
@@ -19,6 +19,6 @@
   },
   "entrypoints": [
     "static/css/main.9b23ccdb.css",
-    "static/js/main.6212abc5.js"
+    "static/js/main.115f8053.js"
   ]
 }
